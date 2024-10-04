@@ -1,4 +1,3 @@
-Need module for routing intent---Completed
 Usage of import module---terraform plan -generate-config-out=generated.tf
 Eg...import {
   to = azurerm_express_route_port.example
