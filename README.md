@@ -1,4 +1,5 @@
-Download the Repo File directly(view raw file) and change the variables in configuration files as per your infra
+Download the Repo File cloud-network-azure-virtual-wan-2024-dev-version2.zip and change the variables in configuration files as per your infra.
+This is test setup from scratch for multi-region Azure Wan deployment
 
 Usage of import module---terraform plan -generate-config-out=generated.tf
 Eg...import {
