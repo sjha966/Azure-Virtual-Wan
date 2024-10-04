@@ -1,3 +1,5 @@
+Download the Repo File directly(view raw file) and change the variables in configuration files as per your infra
+
 Usage of import module---terraform plan -generate-config-out=generated.tf
 Eg...import {
   to = azurerm_express_route_port.example
