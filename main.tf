@@ -21,7 +21,7 @@ provider "azurerm" {
 }
 provider "azurerm" {
   alias           = "subscription1"
-  subscription_id = "405303fb-8742-45fb-ae2b-9bfea2a82ea1"
+  subscription_id = "subscriptions ID"
 
   features {}  # Correctly defined as a block
   skip_provider_registration = true
@@ -29,7 +29,7 @@ provider "azurerm" {
 
 provider "azurerm" {
   alias           = "subscription2"
-  subscription_id = "d350e7f2-578e-496d-b94e-9b4e7e136b56"
+  subscription_id = "subscriptions ID"
 
   features {}  # Correctly defined as a block
   skip_provider_registration = true
